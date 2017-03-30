@@ -17,4 +17,4 @@ open file1.r
 ```
 
 *open the file
-*open the file without clicking on the file in your computer
++open the file without clicking on the file in your computer
