@@ -9,3 +9,12 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+#open file1.r
+
+```
+open file1.r
+```
+
+..*open the file
+..*open the file without clicking on the file in your computer
