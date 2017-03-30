@@ -16,5 +16,5 @@ See `complete` branch for answers.
 open file1.r
 ```
 
-*open the file
-+open the file without clicking on the file in your computer
+1.open the file
+2.open the file without clicking on the file in your computer
