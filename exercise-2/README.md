@@ -5,3 +5,9 @@ As described in [chapter-5](https://info201-s17.github.io/book/introduction-to-g
 In the space below, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+**Course number** | _course title_ | instructor
+--- | --- | ---
+15368 | info 201 | micheal 
+10000 | math 308 | johna
+99999 | clas 430 | idk
